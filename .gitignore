@@ -1,5 +1,6 @@
 # ignore all dir
 */
+!/package
 
 # ignore exe
 *.exe
