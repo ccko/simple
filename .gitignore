@@ -1,0 +1,17 @@
+# ignore all dir
+*/
+
+# ignore exe
+*.exe
+
+# ignore ipynb
+#*.ipynb
+
+# ignore log
+*.log
+
+# ignore txt
+*.txt
+
+# ignore spec
+*.spec
